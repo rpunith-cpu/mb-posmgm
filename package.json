@@ -1,0 +1,7 @@
+{
+  "name": "mb-posmgmt",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  }
+}
